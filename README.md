@@ -2,4 +2,4 @@ I am a seasoned healthcare professional and experienced technologist. I love bri
 
 My website is at http://robinkinganalytics.com
 
-I am tracking Public Tableau projects at http://public.tableau.com/profile/robin.king#!/
+I have posted Public Tableau projects at http://public.tableau.com/profile/robin.king#!/
